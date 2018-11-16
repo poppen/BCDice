@@ -1,0 +1,36 @@
+input:
+RD2
+output:
+TheCthulhuHack : (RD2) ＞ 有効なリソースダイスではありません
+rand:
+============================
+input:
+RD12
+output:
+TheCthulhuHack : (RD12) ＞ 1 ＞ 失敗！　リソースダイスはD10にステップダウンしました
+rand:1/12
+============================
+input:
+RD12
+output:
+TheCthulhuHack : (RD12) ＞ 2 ＞ 失敗！　リソースダイスはD10にステップダウンしました
+rand:2/12
+============================
+input:
+RD12
+output:
+TheCthulhuHack : (RD12) ＞ 3 ＞ 成功！
+rand:3/12
+============================
+input:
+RD4
+output:
+TheCthulhuHack : (RD4) ＞ 2 ＞ 失敗！　リソースダイスはなくなりました
+rand:2/4
+============================
+input:
+RD6
+output:
+TheCthulhuHack : (RD6) ＞ 2 ＞ 失敗！　リソースダイスはD4にステップダウンしました
+rand:2/6
+============================
